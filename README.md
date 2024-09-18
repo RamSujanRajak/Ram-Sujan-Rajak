@@ -9,7 +9,7 @@
     <p>I'm always eager to learn new things and collaborate on exciting projects! 🚀</p>
   </div>
   <div class="profile-gif">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="GIF" width="200px" height="200px">
+    <img src="action.gif" alt="GIF" width="200px" height="200px">
   </div>
 </div>
 
