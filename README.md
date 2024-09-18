@@ -1,14 +1,15 @@
 <div class="about-me">
  <div class="about-me">
   <div class="profile-text">
+    <div class="profile-gif">
+    <img src="action.gif"  align='right' alt="GIF" width="200px" height="200px" margin-top: 0px; ">
+  </div>
     <h2 style="font-weight: bold;">About Me 🧑‍💻</h2>
-    <p>I'm a passionate web developer 🌍 focused on building engaging and user-friendly web applications. I'm proficient in React, JavaScript, and modern web technologies.</p>
-    <p>Currently, I'm expanding my skills into backend development with Node.js, Express.js, and MongoDB.</p>
+    <p align='left'>I'm a passionate web developer 🌍 focused on building engaging and user-friendly web applications. I'm proficient in React, JavaScript, and modern web technologies.</p>
+    <p  align='left'>Currently, I'm expanding my skills into backend development with Node.js, Express.js, and MongoDB.</p>
     <p>I'm always eager to learn new things and collaborate on exciting projects! 🚀</p>
   </div>
-  <div class="profile-gif">
-    <img src="action.gif" alt="GIF" width="200px" height="200px" style="margin-top: 20px; border-radius: 10px;">
-  </div>
+  
 </div>
 
 </div>
