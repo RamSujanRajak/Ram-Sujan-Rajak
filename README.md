@@ -4,7 +4,7 @@
     <div class="profile-gif">
     <img src="action.gif"  align='right' alt="GIF" width="200px" height="200px" margin-top: 0px; ">
   </div>
-    <h2 style="font-weight: bold;">About Me 🧑‍💻</h2>
+    <h2 style="font-weight: bold;">Hello , I'm Ram Sujan Rajak 🧑‍💻</h2>
     <p align='left'>I'm a passionate web developer 🌍 focused on building engaging and user-friendly web applications. I'm proficient in React, JavaScript, and modern web technologies.</p>
     <p  align='left'>Currently, I'm expanding my skills into backend development with Node.js, Express.js, and MongoDB.</p>
     <p>I'm always eager to learn new things and collaborate on exciting projects! 🚀</p>
