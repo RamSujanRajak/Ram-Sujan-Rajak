@@ -1,15 +1,15 @@
 <div class="about-me">
   <div class="profile-image">
-    <img src="your_profile_picture.jpg" alt="Your Name" width="200px" height="200px" style="border-radius: 50%;">
+<!--     <img src="" alt="Your Name" width="200px" height="200px" style="border-radius: 50%;"> -->
   </div>
   <div class="profile-text">
-    <h2>About Me</h2>
-    <p>I'm a passionate web developer focused on building engaging and user-friendly web applications. I'm proficient in React, JavaScript, and modern web technologies.</p>
+    <h2>About Me 🧑‍💻</h2>
+    <p>I'm a passionate web developer 🌍 focused on building engaging and user-friendly web applications. I'm proficient in React, JavaScript, and modern web technologies.</p>
     <p>Currently, I'm expanding my skills into backend development with Node.js, Express.js, and MongoDB.</p>
-    <p>I'm always eager to learn new things and collaborate on exciting projects.</p>
+    <p>I'm always eager to learn new things and collaborate on exciting projects! 🚀</p>
   </div>
   <div class="profile-gif">
-    <img src="your_gif.gif" alt="GIF" width="200px" height="200px">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="GIF" width="200px" height="200px">
   </div>
 </div>
 
