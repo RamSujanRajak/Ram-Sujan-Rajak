@@ -1,8 +1,5 @@
 <div class="about-me">
-  <div class="profile-image">
-    <img src="gif img.gif" alt="Your Name" width="200px" height="200px" style="border-radius: 50px; margin-left:50px">
-  </div>
- <div class="about-me" style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 20px;">
+ <div class="about-me">
   <div class="profile-text">
     <h2 style="font-weight: bold;">About Me 🧑‍💻</h2>
     <p>I'm a passionate web developer 🌍 focused on building engaging and user-friendly web applications. I'm proficient in React, JavaScript, and modern web technologies.</p>
