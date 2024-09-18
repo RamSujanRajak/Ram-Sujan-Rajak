@@ -1,6 +1,6 @@
 <div class="about-me">
   <div class="profile-image">
-    <img src="git img.gif" alt="Your Name" width="200px" height="200px" style="border-radius: 50%;">
+    <img src="gif img.gif" alt="Your Name" width="200px" height="200px" style="border-radius: 50%;">
   </div>
  <div class="about-me" style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 20px;">
   <div class="profile-text">
